@@ -1,7 +1,6 @@
 Hi 👋 My name is Josemi
 =========================
 
-### Skills
 
 
 <p align="left">
